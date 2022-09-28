@@ -14,15 +14,15 @@ Controlo de versões distribuido foca-se em partilhar alterações. Cada altera�
 Sistemas distribuidos não têm estrutura definida. É possivel ter um sistema centralizado ao estilo SVN usando git.
 
 
-Porquê usar git?
-Permite trabalhar offline.
-Colaborar com outros é fácil!
-Criar branches é fácil!
-Fazer merge é fácil!
-Git é rápido.
-Git é flexivel.
-Git - Arquitectura
-Repositório
+Porquê usar git?</br>
+Permite trabalhar offline.</br>
+Colaborar com outros é fácil!</br>
+Criar branches é fácil!</br>
+Fazer merge é fácil!</br>
+Git é rápido.</br>
+Git é flexivel.</br>
+Git - Arquitectura</br>
+Repositório</br>
 
 Um conjunto de ficheiros, directórios, registos históricos, commits e referências. Pode ser imaginado como uma estrutura de dados de código fonte com a particularidade de cada elemento do código fonte permitir acesso ao histórico das suas alterações, entre outras coisas.
 
