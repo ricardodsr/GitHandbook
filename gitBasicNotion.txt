@@ -19,8 +19,7 @@ $ git help add
 $ git help commit
 $ git help init
 
-# Apresenta o *branch*, ficheiros não monitorizados, alterações e outras
-# difereças
+# Apresenta o *branch*, ficheiros não monitorizados, alterações e outras difereças
 $ git status
 
 # Para aprender mais detalhes sobre git *status*
@@ -60,7 +59,7 @@ $ git checkout branchName
 $ git checkout -b newBranch
 
 # Clona learnxinyminutes-docs
-$ git clone https://github.com/adambard/learnxinyminutes-docs.git
+$ git clone https://github.com/ricardodsr/Git-NOT-Github
 
 # commit com uma mensagem
 $ git commit -m "Added multiplyNumbers() function to HelloWorld.c"
@@ -74,7 +73,6 @@ $ git diff --cached
 # Apresenta a diferença entre o directório atual e o commit mais recente
 $ git diff HEAD
 
-# Obrigado a Travis Jeffery por estas
 # Define a apresentação de números de linha nos resultados do grep
 $ git config --global grep.lineNumber true
 
