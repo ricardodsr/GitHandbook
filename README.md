@@ -11,13 +11,13 @@ Sistemas distribuidos não têm estrutura definida. É possivel ter um sistema c
 
 
 <h3>Porquê usar git?</h3></br>
-Permite trabalhar offline.</br>
-Colaborar com outros é fácil!</br>
-Criar branches é fácil!</br>
-Fazer merge é fácil!</br>
-Git é rápido.</br>
-Git é flexivel.</br>
-Git - Arquitectura</br>
+1- Permite trabalhar offline.</br>
+2- Colaborar com outros é fácil!</br>
+3- Criar branches é fácil!</br>
+4- Fazer merge é fácil!</br>
+5- Git é rápido.</br>
+6- Git é flexivel.</br>
+7- Git - Arquitectura</br>
 
 <h3>Repositório é :</h3>
 Um conjunto de ficheiros, directórios, registos históricos, commits e referências. Pode ser imaginado como uma estrutura de dados de código fonte com a particularidade de cada elemento do código fonte permitir acesso ao histórico das suas alterações, entre outras coisas.
