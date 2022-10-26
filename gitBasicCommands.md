@@ -1,4 +1,5 @@
-# $ git init
+# Cria um novo repositório ou reinicializa um ja existente
+        $ git init
 
 # Imprime e define algumas variáveis de configuração básicas (global)
         $ git config --global user.email
