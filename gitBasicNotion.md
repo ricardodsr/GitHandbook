@@ -1,23 +1,23 @@
-$ git init
+# $ git init
 
 # Imprime e define algumas variáveis de configuração básicas (global)
-$ git config --global user.email
-$ git config --global user.name
+        $ git config --global user.email
+        $ git config --global user.name
 
-$ git config --global user.email "MyEmail@Zoho.com"
-$ git config --global user.name "My Name"
+        $ git config --global user.email "MyEmail@Zoho.com"
+        $ git config --global user.name "My Name"
 
 # Ver rapidamente os comandos disponiveis
-$ git help
+        $ git help
 
 # Ver todos os comandos disponiveis
-$ git help -a
+        $ git help -a
 
 # Requerer *help* sobre um comando especifico - manual de utilizador
 # git help <command_here>
-$ git help add
-$ git help commit
-$ git help init
+        $ git help add
+        $ git help commit
+        $ git help init
 
 # Apresenta o *branch*, ficheiros não monitorizados, alterações e outras difereças
 $ git status
