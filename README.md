@@ -10,7 +10,7 @@ Controlo de versões distribuido foca-se em partilhar alterações. Cada altera�
 Sistemas distribuidos não têm estrutura definida. É possivel ter um sistema centralizado ao estilo SVN usando git.<br>
 
 
-<h3>Porquê usar git?</h3></br>
+<h3>Porquê usar git?</h3>
 1- Permite trabalhar offline.</br>
 2- Colaborar com outros é fácil!</br>
 3- Criar branches é fácil!</br>
