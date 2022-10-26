@@ -2,9 +2,8 @@
 <h3>Funciona através de uma série de registos de estado do projecto e usa esse registo para permitir funcionalidades de versionamento e gestão de código fonte.</h3>
 
 <h3>Conceitos de versionamento</h3>
-O que é controlo de versões: <br>
+<h4>O que é controlo de versões:</h4> <br><br>
 Controlo de versões (source control) é um processo de registo de alterações a um ficheiro ou conjunto de ficheiros ao longo do tempo.<br>
-
 Controlo de versões: Centralizado VS Distribuido.<br>
 Controlo de versões centralizado foca-se na sincronização, registo e backup de ficheiros.<br>
 Controlo de versões distribuido foca-se em partilhar alterações. Cada alteração é associada a um id único.<br>
