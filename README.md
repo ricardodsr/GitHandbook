@@ -1,14 +1,14 @@
 <h1>Git é um sistema distribuido de gestão para código fonte e controlo de versões.</h1>
-<h2>Funciona através de uma série de registos de estado do projecto e usa esse registo para permitir funcionalidades de versionamento e gestão de código fonte.</h2>
+<h3>Funciona através de uma série de registos de estado do projecto e usa esse registo para permitir funcionalidades de versionamento e gestão de código fonte.</h3>
 
 <h3>Conceitos de versionamento</h3>
-O que é controlo de versões: 
-Controlo de versões (source control) é um processo de registo de alterações a um ficheiro ou conjunto de ficheiros ao longo do tempo.
+O que é controlo de versões: <br>
+Controlo de versões (source control) é um processo de registo de alterações a um ficheiro ou conjunto de ficheiros ao longo do tempo.<br>
 
-Controlo de versões: Centralizado VS Distribuido
-Controlo de versões centralizado foca-se na sincronização, registo e backup de ficheiros.
-Controlo de versões distribuido foca-se em partilhar alterações. Cada alteração é associada a um id único.
-Sistemas distribuidos não têm estrutura definida. É possivel ter um sistema centralizado ao estilo SVN usando git.
+Controlo de versões: Centralizado VS Distribuido.<br>
+Controlo de versões centralizado foca-se na sincronização, registo e backup de ficheiros.<br>
+Controlo de versões distribuido foca-se em partilhar alterações. Cada alteração é associada a um id único.<br>
+Sistemas distribuidos não têm estrutura definida. É possivel ter um sistema centralizado ao estilo SVN usando git.<br>
 
 
 <h3>Porquê usar git?</h3></br>
