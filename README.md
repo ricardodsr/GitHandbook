@@ -3,6 +3,11 @@
     Git é um sistema distribuido de gestão para código fonte e controlo de versões.
     Funciona através de uma série de registos de estado do projecto e usa esse registo para permitir funcionalidades de versionamento e gestão de código fonte.
 
+<p align="center">
+  <img src="https://ricardodsr.github.io/images/rrLogo.png"
+width="300" height="300"> </p>
+
+
 # Conceitos de versionamento
 # O que é controlo de versões:
       Controlo de versões (source control) é um processo de registo de alterações a um ficheiro 
