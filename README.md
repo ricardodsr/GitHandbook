@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://github.com/ricardodsr/GitHandbook/blob/main/1668670915707.jpg"
-width="300" height="300"> </p>
+width="600" height="600"> </p>
 
 
 # Conceitos de versionamento
