@@ -4,7 +4,7 @@
     Funciona através de uma série de registos de estado do projecto e usa esse registo para permitir funcionalidades de versionamento e gestão de código fonte.
 
 <p align="center">
-  <img src="https://ricardodsr.github.io/images/rrLogo.png"
+  <img src="https://github.com/ricardodsr/GitHandbook/blob/main/1668670915707.jpg"
 width="300" height="300"> </p>
 
 
